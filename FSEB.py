@@ -3,7 +3,7 @@
 # Developed by:  Mercedeh Taheri, Milad Shamsi Anboohi, Mohsen Nasseri, Majid Kiavarz, and Abdolmajid Mohammadian   
 # Email address: mrc.tahery@ut.ac.ir  
 # Created:       21/05/2020
-# Submitted to:  Agricutural and Forest Meterology, 
+# Submitted to:  Agricutural and Forest Meteorology, 
 
 
 #------------------------------------------------------------------------------
